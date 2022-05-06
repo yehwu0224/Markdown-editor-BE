@@ -1,5 +1,5 @@
 #  Markdown note editor 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with [express-generator](https://github.com/expressjs/generator)
 
 ## About
 ![](https://i.imgur.com/t7DThva.png)
